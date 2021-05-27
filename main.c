@@ -2,5 +2,6 @@
 #include <stdlib.h>
 
 main() {
-    prinftf("Hello ! Aqui é o Michael eo Rafael Também.")
+    prinftf("Hello ! Aqui é o Michael eo Rafael Também.");
+    printf("Fim do Michael");
 }
